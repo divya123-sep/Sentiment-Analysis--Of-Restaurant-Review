@@ -1,4 +1,4 @@
-# Sentiment-Analysis--Of-Restaurant-Review App 🏨📝
+# Sentiment-Analysis-Of-Restaurant-Review-App 🏨📝
 
 This is a Streamlit web application for sentiment analysis of restaurant reviews. The app allows users to input a restaurant review, predict whether the sentiment is positive or negative using multiple machine learning models, and visualize various insights like word clouds and performance metrics.
 
