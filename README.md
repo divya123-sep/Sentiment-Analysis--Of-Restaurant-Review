@@ -1,4 +1,4 @@
-# Sentiment-Analysis--Of-Restaurant-Review App
+# Sentiment-Analysis--Of-Restaurant-Review App 🏨📝
 
 This is a Streamlit web application for sentiment analysis of restaurant reviews. The app allows users to input a restaurant review, predict whether the sentiment is positive or negative using multiple machine learning models, and visualize various insights like word clouds and performance metrics.
 
@@ -24,7 +24,8 @@ To run this app locally, you'll need to have the following libraries installed:
 
 You can install them using pip:
 
-![App Screenshot](![Screenshot 2025-01-09 185207](https://github.com/user-attachments/assets/414faeac-d008-43e7-8a41-e913b676aad8)
+![App Screenshot](![Screenshot 2025-01-09 185207](https://github.com/user-attachments/assets/1eac9d98-043c-41f3-9b01-edfec6fba3ad)
+
 
 ```bash
 pip install streamlit pandas nltk scikit-learn matplotlib seaborn wordcloud
