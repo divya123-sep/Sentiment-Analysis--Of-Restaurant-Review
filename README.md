@@ -24,7 +24,7 @@ To run this app locally, you'll need to have the following libraries installed:
 
 You can install them using pip:
 
-![App Screenshot](![Screenshot 2025-01-09 185207](https://github.com/user-attachments/assets/1eac9d98-043c-41f3-9b01-edfec6fba3ad)
+![App Screenshot]![Screenshot 2025-01-09 185207](https://github.com/user-attachments/assets/1eac9d98-043c-41f3-9b01-edfec6fba3ad)
 
 
 ```bash
